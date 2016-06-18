@@ -1,10 +1,10 @@
-CRUD Admin Generator
+PHP Admin Generator
 ===================
 
-What is CRUD Admin Generator?
+What is PHP Admin Generator?
 -----------------------------
 
-**CRUD Admin Generator** ([http://crud-admin-generator.com][1]) is a tool to **generate a complete backend from a MySql database** where you can create, read, update and delete records in a database. 
+**PHP Admin Generator** ([http://begin.com.co][1]) is a tool to **generate a complete backend from a MySql database** where you can create, read, update and delete records in a database. 
 
 **The backend is generated in seconds** without configuration files where there is a lot of *"magic"* and is very difficult to adapt to your needs. 
 
@@ -18,7 +18,7 @@ Installation
 
 Clone the repository
 
-    git clone https://github.com/jonseg/crud-admin-generator.git admingenerator
+    git clone https://github.com/jonseg/php-backend-generator.git admingenerator
 
     cd admingenerator
 
@@ -108,7 +108,7 @@ It has generated a folder for each database table.
 Contributing
 ------------
 
-If you want to contribute code to CRUD Admin Generator, we are waiting for your pull requests!
+If you want to contribute code to PHP Backend Generator, we are waiting for your pull requests!
 
 Some suggestions for improvement could be:
 
